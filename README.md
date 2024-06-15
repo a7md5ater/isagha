@@ -1,5 +1,10 @@
 - Weather Forecast Application ⛅
 
+-to run the application
+
+flutter run
+
+
 ![Screenshot_1718419615](https://github.com/a7md5ater/isagha/assets/61307826/a8ab474d-a482-4342-b9a0-0d840e6315e7)
 
 ![Screenshot_1718419596](https://github.com/a7md5ater/isagha/assets/61307826/e4f49bfc-4ef0-4916-ade1-f0da7e946a4b)
